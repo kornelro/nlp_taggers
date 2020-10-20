@@ -1,4 +1,4 @@
 Zbudowanie tokenizatora (programu do segmentacji tekstu na poziomie wyrazowym). Zakładamy zastosowanie prostego podziału na zdania, np. wybrane znaki
-interpunkcyjne wyznaczają koniec zdania. Tokenizator powinien odróżniać potencjalne wyrazy języka od innych kategorii tokenów.
-<({[Test (kilka) nawiasów]})>
-test... ...trzykropki
+interpunkcyjne wyznaczają koniec zdania. Tokenizator powinien odróżniać potencjalne wyrazy języka od innych kategorii tokenów. czerwona kartka
+<({[Test (kilka) nawiasów]})> bialo-czerwona
+test... ...trzykropki bialo-biala//aaa
