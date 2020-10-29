@@ -2,6 +2,7 @@ import pandas as pd
 from tqdm import tqdm
 from utils import get_tagged_df
 
+
 with open('../../Dane/test-raw.txt', 'r') as f:
     test_raw = f.read()
 
@@ -27,6 +28,7 @@ for text in tqdm(test_raw):
         krnnt_df = krnnt_df.append(
             get_tagged_df(text, 'krnnt')
         )
+        
         i += 1
 
     except Exception as e:
