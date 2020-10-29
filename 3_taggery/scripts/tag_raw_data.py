@@ -38,6 +38,6 @@ for text in tqdm(test_raw):
 
 print('Tagged '+str(i)+' texts.')
 
-morhpodita_df.to_csv('../tagged/morhpodita_tags.csv')
-wcrft2_df.to_csv('../tagged/wcrft2_tags.csv')
-krnnt_df.to_csv('../tagged/krnnt_tags.csv')
+morhpodita_df.to_csv('../taged/morphodita_tags.csv')
+wcrft2_df.to_csv('../taged/wcrft2_tags.csv')
+krnnt_df.to_csv('../taged/krnnt_tags.csv')
