@@ -5,7 +5,7 @@ import pandas as pd
 import concurrent.futures
 from multiprocessing import Pool
 
-FILES_DIR = '../../Dane/wiki_train/'
+FILES_DIR = '../../Dane/wiki_test/'
 
 verb_tags = ('fin', 'bedzie', 'aglt', 'praet', 'impt', 'imps', 'inf', 'pcon', 'pant', 'ger', 'pact', 'ppas')
 
