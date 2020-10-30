@@ -4,3 +4,13 @@ venv_nlp
 .ipynb_checkpoints/
 .DS_Store
 __pycache__/
+*/wiki_train/*.txt
+*/wiki_train/*.csv
+*/wiki_train/*.xml
+*/wiki_train/handle
+*/wiki_train/contents
+*/wiki_test/*.txt
+*/wiki_test/*.csv
+*/wiki_test/*.xml
+*/wiki_test/handle
+*/wiki_test/contents
